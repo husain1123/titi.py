@@ -12,8 +12,8 @@ error = 0.00001
 
 print("PROGRAM PENCARIAN TITIK IMPAS")
 print("Metode Numerik: Biseksi")
-print("Nama :", nama)
-print("NIM  :", nim)
+print("Nama :", "Tri Kholipianto Rahmatsyah")
+print("NIM  :", "20250040019")
 print("-" * 75)
 print(f"{'No':<6}{'Tengah':<15}{'f(Tengah)':<18}{'Galat':<15}")
 print("-" * 75)
